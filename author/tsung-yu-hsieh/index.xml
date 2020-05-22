@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tsung-Yu Hsieh | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/tsung-yu-hsieh/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/tsung-yu-hsieh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tsung-Yu Hsieh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Tsung-Yu Hsieh</title>
+      <link>https://www.tangxianfeng.net/author/tsung-yu-hsieh/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach</title>
+      <link>https://www.tangxianfeng.net/publication/sun-2020-adversarial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/sun-2020-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEGAN: a generative adversarial network for multi-view network embedding</title>
+      <link>https://www.tangxianfeng.net/publication/sun-2019-megan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/sun-2019-megan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

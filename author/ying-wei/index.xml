@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Wei | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/ying-wei/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/ying-wei/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Wei</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Ying Wei</title>
+      <link>https://www.tangxianfeng.net/author/ying-wei/</link>
+    </image>
+    
+    <item>
+      <title>Learning from multiple cities: A meta-learning approach for spatial-temporal prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

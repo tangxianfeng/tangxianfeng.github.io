@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhenhui Li | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/zhenhui-li/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/zhenhui-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhenhui Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Zhenhui Li</title>
+      <link>https://www.tangxianfeng.net/author/zhenhui-li/</link>
+    </image>
+    
+    <item>
+      <title>A simple baseline for travel time estimation using large-scale trip data</title>
+      <link>https://www.tangxianfeng.net/publication/wang-2019-simple/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/wang-2019-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citywide Traffic Volume Inference with Surveillance Camera Records</title>
+      <link>https://www.tangxianfeng.net/publication/yu-2019-citywide/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yu-2019-citywide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from multiple cities: A meta-learning approach for spatial-temporal prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multi-view spatial-temporal network for taxi demand prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation learning for large-scale dynamic networks</title>
+      <link>https://www.tangxianfeng.net/publication/yu-2018-representation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yu-2018-representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

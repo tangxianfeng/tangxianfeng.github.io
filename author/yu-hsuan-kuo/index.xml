@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu-Hsuan Kuo | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/yu-hsuan-kuo/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/yu-hsuan-kuo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu-Hsuan Kuo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Yu-Hsuan Kuo</title>
+      <link>https://www.tangxianfeng.net/author/yu-hsuan-kuo/</link>
+    </image>
+    
+    <item>
+      <title>A simple baseline for travel time estimation using large-scale trip data</title>
+      <link>https://www.tangxianfeng.net/publication/wang-2019-simple/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/wang-2019-simple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

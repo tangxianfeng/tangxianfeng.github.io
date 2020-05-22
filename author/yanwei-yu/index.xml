@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanwei Yu | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/yanwei-yu/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/yanwei-yu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanwei Yu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Yanwei Yu</title>
+      <link>https://www.tangxianfeng.net/author/yanwei-yu/</link>
+    </image>
+    
+    <item>
+      <title>Find you if you drive: Inferring home locations for vehicles with surveillance camera data</title>
+      <link>https://www.tangxianfeng.net/publication/chen-2020-find/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/chen-2020-find/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layer-constrained variational autoencoding kernel density estimation model for anomaly detection</title>
+      <link>https://www.tangxianfeng.net/publication/lv-2020-layer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/lv-2020-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citywide Traffic Volume Inference with Surveillance Camera Records</title>
+      <link>https://www.tangxianfeng.net/publication/yu-2019-citywide/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yu-2019-citywide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modeling of dense and incomplete trajectories for citywide traffic volume inference</title>
+      <link>https://www.tangxianfeng.net/publication/tang-2019-joint/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/tang-2019-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2019-revisiting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2019-revisiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation learning for large-scale dynamic networks</title>
+      <link>https://www.tangxianfeng.net/publication/yu-2018-representation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yu-2018-representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

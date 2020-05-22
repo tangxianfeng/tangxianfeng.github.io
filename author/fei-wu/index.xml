@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fei Wu | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/fei-wu/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/fei-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fei Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Fei Wu</title>
+      <link>https://www.tangxianfeng.net/author/fei-wu/</link>
+    </image>
+    
+    <item>
+      <title>Deep multi-view spatial-temporal network for taxi demand prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

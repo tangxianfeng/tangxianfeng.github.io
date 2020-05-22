@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/publication/</link>
+      <atom:link href="https://www.tangxianfeng.net/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Publications</title>
+      <link>https://www.tangxianfeng.net/publication/</link>
+    </image>
+    
+    <item>
+      <title>Adversarial Attacks on Graph Neural Networks via Node Injections: A Hierarchical Reinforcement Learning Approach</title>
+      <link>https://www.tangxianfeng.net/publication/sun-2020-adversarial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/sun-2020-adversarial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Find you if you drive: Inferring home locations for vehicles with surveillance camera data</title>
+      <link>https://www.tangxianfeng.net/publication/chen-2020-find/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/chen-2020-find/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values</title>
+      <link>https://www.tangxianfeng.net/publication/tang-2020-joint/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/tang-2020-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Layer-constrained variational autoencoding kernel density estimation model for anomaly detection</title>
+      <link>https://www.tangxianfeng.net/publication/lv-2020-layer/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/lv-2020-layer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transferring Robustness for Graph Neural Network Against Poisoning Attacks</title>
+      <link>https://www.tangxianfeng.net/publication/tang-2020-transferring/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/tang-2020-transferring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple baseline for travel time estimation using large-scale trip data</title>
+      <link>https://www.tangxianfeng.net/publication/wang-2019-simple/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/wang-2019-simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Citywide Traffic Volume Inference with Surveillance Camera Records</title>
+      <link>https://www.tangxianfeng.net/publication/yu-2019-citywide/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yu-2019-citywide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint modeling of dense and incomplete trajectories for citywide traffic volume inference</title>
+      <link>https://www.tangxianfeng.net/publication/tang-2019-joint/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/tang-2019-joint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning from multiple cities: A meta-learning approach for spatial-temporal prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2019-learning/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2019-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MEGAN: a generative adversarial network for multi-view network embedding</title>
+      <link>https://www.tangxianfeng.net/publication/sun-2019-megan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/sun-2019-megan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting Spatial-Temporal Similarity: A Deep Learning Framework for Traffic Prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2019-revisiting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2019-revisiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep multi-view spatial-temporal network for taxi demand prediction</title>
+      <link>https://www.tangxianfeng.net/publication/yao-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yao-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation learning for large-scale dynamic networks</title>
+      <link>https://www.tangxianfeng.net/publication/yu-2018-representation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/yu-2018-representation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
