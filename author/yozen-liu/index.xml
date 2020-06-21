@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yozen Liu | Xianfeng Tang</title>
+    <link>https://www.tangxianfeng.net/author/yozen-liu/</link>
+      <atom:link href="https://www.tangxianfeng.net/author/yozen-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yozen Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
+      <title>Yozen Liu</title>
+      <link>https://www.tangxianfeng.net/author/yozen-liu/</link>
+    </image>
+    
+    <item>
+      <title>Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps</title>
+      <link>https://www.tangxianfeng.net/publication/tang-2020-knowing/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/tang-2020-knowing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
