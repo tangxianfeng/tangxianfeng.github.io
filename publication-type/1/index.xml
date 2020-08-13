@@ -5,12 +5,28 @@
     <link>https://www.tangxianfeng.net/publication-type/1/</link>
       <atom:link href="https://www.tangxianfeng.net/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©Xianfeng Tang 2020</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.tangxianfeng.net/img/Xianfeng_Tang.jpg</url>
       <title>1</title>
       <link>https://www.tangxianfeng.net/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Investigating and Mitigating Degree-Related Biases in Graph Convoltuional Networks</title>
+      <link>https://www.tangxianfeng.net/publication/tang-2020-investigating/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/tang-2020-investigating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-Supervised Graph-to-Graph Translation</title>
+      <link>https://www.tangxianfeng.net/publication/zhao-2020-semi/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.tangxianfeng.net/publication/zhao-2020-semi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Knowing your FATE: Friendship, Action and Temporal Explanations for User Engagement Prediction on Social Apps</title>
